@@ -1,0 +1,12 @@
+F:\uploadwebapp\Login_FORM application\Login_FORM application\bin\Debug\Login_FORM application.exe.config
+F:\uploadwebapp\Login_FORM application\Login_FORM application\bin\Debug\Login_FORM application.exe
+F:\uploadwebapp\Login_FORM application\Login_FORM application\bin\Debug\Login_FORM application.pdb
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM application.csproj.AssemblyReference.cache
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM application.csproj.SuggestedBindingRedirects.cache
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM_application.Form1.resources
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM_application.Menuform.resources
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM_application.Properties.Resources.resources
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM application.csproj.GenerateResource.cache
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM application.csproj.CoreCompileInputs.cache
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM application.exe
+F:\uploadwebapp\Login_FORM application\Login_FORM application\obj\Debug\Login_FORM application.pdb
